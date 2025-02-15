@@ -1,0 +1,38 @@
+{
+  "name": "react-telegram-bot-interface",
+  "version": "1.0.0",
+  "description": "A React hook for telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gittlc/react-telegram-bot-interface.git"
+  },
+  "keywords": [
+    "react",
+    "telegram-bot",
+    "telegram",
+    "bot"
+  ],
+  "author": "gittlc",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/gittlc/react-telegram-bot-interface/issues"
+  },
+  "homepage": "https://github.com/gittlc/react-telegram-bot-interface#readme",
+  "dependencies": {
+    "grammy": "^1.35.0",
+    "react": "^19.0.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^28.0.2",
+    "@rollup/plugin-node-resolve": "^16.0.0",
+    "@rollup/plugin-typescript": "^12.1.2",
+    "@types/react": "^19.0.8",
+    "rollup": "^4.34.7",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "typescript": "^5.7.3"
+  }
+}
