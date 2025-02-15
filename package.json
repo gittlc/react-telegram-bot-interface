@@ -24,7 +24,8 @@
   "homepage": "https://github.com/gittlc/react-telegram-bot-interface#readme",
   "dependencies": {
     "grammy": "^1.35.0",
-    "react": "^19.0.0"
+    "react": "^19.0.0",
+    "tslib": "^2.8.1"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^28.0.2",
